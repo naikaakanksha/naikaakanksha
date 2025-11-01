@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakanksha Ankush Naiknaware</h1>
-<h3 align="center">Engineering student passionate about Data Science, AI & real-world analytics</h3>
+<h3 align="center">Engineering student passionate about Data Analytics and Data Science, AI & real-world analytics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naikaakanksha&label=Profile%20views&color=0e75b6&style=flat" alt="naikaakanksha" /> </p>
 
