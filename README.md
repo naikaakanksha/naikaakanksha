@@ -1,43 +1,51 @@
-<h1 align="center">Hi 👋, I'm Aakanksha Naiknaware</h1>
+<div align="center">
 
-<h3 align="center">
-Data Analyst • Data Science Enthusiast • Machine Learning Explorer
-</h3>
+# Turning Data into Decisions.
 
-<p align="center">
-<i>Transforming raw data into reliable insights through analysis, curiosity, and continuous learning.</i>
-</p>
+### **Aakanksha Naiknaware**
+
+**Data Analyst • Data Science Enthusiast • Machine Learning Explorer**
+
+*Transforming raw data into meaningful insights through analysis, curiosity, and continuous learning.*
+
+💼 Open to Data Analyst & Data Science Opportunities
+
+[LinkedIn](https://www.linkedin.com/in/aakankshanaiknaware)
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a Data Science student passionate about transforming data into meaningful insights that support smarter decisions. I enjoy exploring datasets, building predictive models, creating interactive dashboards, and solving real-world problems through analytical thinking.
+I'm a Data Science student passionate about uncovering meaningful insights from data and solving real-world problems through analytics, machine learning, and business intelligence.
 
-I believe data is most valuable when it helps answer meaningful questions, improve decision-making, and create measurable impact.
+I enjoy transforming complex datasets into clear, actionable insights that support better decision-making. Every project I build reflects my curiosity, analytical mindset, and commitment to continuous learning.
 
 ---
 
 ## 📌 Professional Summary
 
 - 📊 Passionate about Data Analytics, Machine Learning, and Business Intelligence
-- 📈 Experienced in building end-to-end data projects from data collection to predictive modeling
-- 🧹 Strong foundation in Data Cleaning, Exploratory Data Analysis (EDA), and Feature Engineering
-- 📉 Skilled in creating dashboards and communicating insights through data visualization
-- 🌱 Dedicated to continuous learning and applying data-driven solutions to real-world challenges
+- 📈 Experienced in building end-to-end data science projects
+- 🧹 Skilled in Data Cleaning, Exploratory Data Analysis (EDA), and Feature Engineering
+- 📉 Proficient in creating dashboards and communicating insights through data visualization
+- 🤖 Hands-on experience with predictive modeling and statistical analysis
+- 🌱 Continuously exploring emerging technologies in Data Science and AI
 
 ---
 
 ## 🎯 Core Competencies
 
-- Data Analysis & Business Intelligence
-- Machine Learning & Predictive Analytics
+- Data Analysis
+- Business Intelligence
+- Machine Learning
+- Predictive Analytics
 - Exploratory Data Analysis (EDA)
-- Data Cleaning & Feature Engineering
-- Dashboard Development
-- SQL & Database Management
-- Data Visualization
+- Feature Engineering
 - Statistical Analysis
+- Data Visualization
+- SQL & Database Management
 - Data Storytelling
 
 ---
@@ -45,21 +53,21 @@ I believe data is most valuable when it helps answer meaningful questions, impro
 ## 🚀 Featured Case Studies
 
 ### 📈 Demand Forecasting & Price Prediction
-Developed a forecasting solution to predict poultry demand and market prices using historical sales data, enabling better inventory planning and pricing strategies.
+Forecasted poultry demand and predicted product prices using historical sales data to support inventory planning and pricing strategies.
 
 **Tech Stack:** Python • Pandas • Scikit-learn • Power BI
 
 ---
 
 ### 🛒 Retail Data Engineering Pipeline
-Designed an end-to-end ETL pipeline to collect, clean, transform, and organize e-commerce data into analytics-ready datasets.
+Designed and implemented an ETL pipeline to collect, clean, transform, and organize e-commerce data into analytics-ready datasets.
 
 **Tech Stack:** Python • SQL • PostgreSQL
 
 ---
 
 ### 😊 Customer Review Intelligence
-Built an NLP-based sentiment analysis model to classify customer reviews into Positive, Negative, and Neutral sentiments.
+Developed an NLP-based sentiment analysis model to classify customer reviews into Positive, Negative, and Neutral sentiments.
 
 **Tech Stack:** Python • NLTK • Scikit-learn
 
@@ -73,14 +81,14 @@ Created an interactive dashboard to analyze income, expenses, savings, and spend
 ---
 
 ### 🌾 Precision Agriculture Recommendation System
-Developed a machine learning model that recommends suitable crops based on soil nutrients and environmental conditions.
+Developed a machine learning model that recommends suitable crops using soil nutrients and environmental conditions.
 
 **Tech Stack:** Python • Scikit-learn • Pandas
 
 ---
 
 ### 💼 HR Compensation Analytics
-Built a regression model to predict employee salaries and analyze the key factors influencing compensation.
+Built a regression model to predict employee salaries and analyze key factors influencing compensation.
 
 **Tech Stack:** Python • Pandas • Scikit-learn
 
@@ -88,23 +96,34 @@ Built a regression model to predict employee salaries and analyze the key factor
 
 ## 🛠 Technical Skills
 
-**Programming Languages**  
-Python • SQL 
+### Programming Languages
+- Python
+- SQL
 
-**Data Analysis**  
-Pandas • NumPy • Excel
+### Data Analysis
+- Pandas
+- NumPy
+- Excel
 
-**Machine Learning**  
-Scikit-learn • TensorFlow
+### Machine Learning
+- Scikit-learn
+- TensorFlow
 
-**Data Visualization**  
-Power BI • Matplotlib • Seaborn • 
+### Data Visualization
+- Power BI
+- Matplotlib
+- Seaborn
+- Plotly
 
-**Databases**  
-MySQL • PostgreSQL
+### Databases
+- MySQL
+- PostgreSQL
 
-**Tools**  
-Git • GitHub • Jupyter Notebook • VS Code
+### Tools
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
 
 ---
 
@@ -112,13 +131,13 @@ Git • GitHub • Jupyter Notebook • VS Code
 
 - Time Series Forecasting
 - Advanced SQL & Query Optimization
+- Azure for Data Analytics
 - Generative AI Applications
 - MLOps Fundamentals
-- Data structre and algorithums 
 
 ---
 
-## 💡 My Approach to Data
+## 💡 My Analytics Workflow
 
 ```text
 Collect Data
@@ -144,25 +163,34 @@ Support Better Decisions
 
 ---
 
-## 🌟 Career Objective
+## 🌟 My Approach
 
-Seeking opportunities as a **Data Analyst** or **Data Scientist** where I can apply analytical thinking, statistical methods, and machine learning to solve business problems and contribute to data-driven innovation.
+I enjoy solving problems where data can create measurable impact. From cleaning and exploring datasets to building predictive models and visualizing insights, I focus on delivering solutions that are accurate, practical, and easy to interpret.
+
+---
+
+## 🎯 Career Objective
+
+Seeking opportunities as a **Data Analyst** or **Data Scientist** where I can apply analytical thinking, statistical methods, and machine learning to solve business challenges, generate actionable insights, and contribute to data-driven decision-making.
 
 ---
 
 ## 🤝 Let's Connect
 
-💼 LinkedIn: https://www.linkedin.com/in/aakankshanaiknaware/
+📧 **Email:** aakankshanaiknaware7@gmai.com
 
-📧 Email: aakankshanaiknaware7@.gmail.com
-
+💼 **LinkedIn:** https://www.linkedin.com/in/aakankshanaiknaware
 
 ---
+
+<div align="center">
 
 ## 💭 My Philosophy
 
 > *"I see data as more than numbers—it's a way to understand people, solve problems, and make informed decisions. Every project I build is an opportunity to transform complexity into clarity and insights into impact."*
 
-<p align="center">
-<strong>Curious enough to ask the right questions. Analytical enough to find the answers. Passionate enough to keep learning.</strong>
-</p>
+### **Curious enough to ask the right questions. Analytical enough to find the answers. Passionate enough to keep learning.**
+
+⭐ *Thank you for visiting my profile. Feel free to explore my repositories and connect with me.*
+
+</div>
